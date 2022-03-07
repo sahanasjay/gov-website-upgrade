@@ -52,6 +52,7 @@ print(list_of_quarters)
 
 pdf_location = '/Users/sahanajayaraman/Desktop/JOUR328O/gov-website-upgrade/3.pdf'
 text = to_text(pdf_location)
+print(text)
 #response = requests.get(link.get("https://health.maryland.gov/vsa/Documents/Overdose/Annual_2020_Drug_Intox_Report.pdf"))
 #print(response)
 #def download_pdf(list):
